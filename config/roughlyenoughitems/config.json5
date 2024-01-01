@@ -1,6 +1,8 @@
 {
 	"basics": {
-		"favorites": [],
+		"favorites": [
+			"{mode:\"MORN\",type:\"roughlyenoughitems:time\"}"
+		],
 		"hiddenFavorites": [],
 		"displayHistory": [],
 		// Declares whether cheating mode is on.
