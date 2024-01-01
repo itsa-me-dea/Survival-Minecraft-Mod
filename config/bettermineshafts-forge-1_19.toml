@@ -27,11 +27,11 @@
 		# Chance of an ore deposit containing iron.
 		# Default: 9
 		#Range: 0 ~ 100
-		"Iron Spawn Chance" = 9
+		"Iron Spawn Chance" = 15
 		# Chance of an ore deposit containing redstone.
 		# Default: 7
 		#Range: 0 ~ 100
-		"Redstone Spawn Chance" = 7
+		"Redstone Spawn Chance" = 8
 		# Chance of an ore deposit containing gold.
 		# Default: 7
 		#Range: 0 ~ 100
