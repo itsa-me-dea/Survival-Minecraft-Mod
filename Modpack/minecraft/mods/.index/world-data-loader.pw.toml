@@ -1,0 +1,13 @@
+filename = 'WorldDataLoader-1.19-1.0.jar'
+name = 'World Data Loader'
+side = 'both'
+
+[download]
+hash = '74486c2c0a1b8018a860e2f437f225e9692cfaac'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4443635
+project-id = 839000

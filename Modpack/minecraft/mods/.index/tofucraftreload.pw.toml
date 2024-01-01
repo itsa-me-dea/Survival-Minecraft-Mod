@@ -1,0 +1,13 @@
+filename = 'TofuCraftReload-1.19.2-2.10.2.1.jar'
+name = 'TofuCraftReload'
+side = 'both'
+
+[download]
+hash = '079c82e69793d1b27fd3f761a7e5c0279b7043f6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4612122
+project-id = 317469

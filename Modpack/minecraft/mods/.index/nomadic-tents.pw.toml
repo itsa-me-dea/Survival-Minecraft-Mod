@@ -1,0 +1,13 @@
+filename = 'nomadictents-19.2.0.jar'
+name = 'Nomadic Tents'
+side = 'both'
+
+[download]
+hash = 'bbd0949f57d64857b69d1427136b9bfccec00b8c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4008613
+project-id = 238794

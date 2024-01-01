@@ -1,0 +1,13 @@
+filename = 'riverredux-0.3.0+forge.jar'
+name = 'River Redux'
+side = 'both'
+
+[download]
+hash = 'a2caf20c7a1ea472fd83e06b3689e8bda223341d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3921896
+project-id = 380548

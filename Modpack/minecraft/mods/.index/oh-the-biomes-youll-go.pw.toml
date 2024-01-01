@@ -1,0 +1,13 @@
+filename = "Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.6.jar"
+name = "Oh The Biomes You'll Go"
+side = 'both'
+
+[download]
+hash = 'c6b6fbf7398103e9e8a795694332649fc9ba3550'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4841635
+project-id = 247560

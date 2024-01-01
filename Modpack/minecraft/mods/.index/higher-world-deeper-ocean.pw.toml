@@ -1,0 +1,13 @@
+filename = 'HigherWorldDeeperOceans-1.19.x.jar'
+name = 'Higher World Deeper Ocean'
+side = 'both'
+
+[download]
+hash = '76d623fe5dd56f8916a6a515d73589c40dc81915'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4413087
+project-id = 725771

@@ -1,0 +1,13 @@
+filename = 'TaxOceanVillager+M.1.19+ForM-1.1.2.jar'
+name = "Tax' Ocean Villager"
+side = 'both'
+
+[download]
+hash = 'a64cba0df9f9874a779f6df460ec0886115667d2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4447810
+project-id = 634557

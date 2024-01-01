@@ -1,0 +1,13 @@
+filename = 'HealthDisease-1.19.2-1-0-5.jar'
+name = 'Health&disease'
+side = 'both'
+
+[download]
+hash = '162e3307330cf3fe5403df1884d5c30754cd16a4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4951853
+project-id = 915791
