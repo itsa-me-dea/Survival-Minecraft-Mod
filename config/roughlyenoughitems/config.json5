@@ -1,8 +1,6 @@
 {
 	"basics": {
-		"favorites": [
-			"{mode:\"MORN\",type:\"roughlyenoughitems:time\"}"
-		],
+		"favorites": [],
 		"hiddenFavorites": [],
 		"displayHistory": [
 			"{DisplayHistoryCategory:\"jeresources:worldgen\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"5f086129-1f66-4e79-a116-20a3537e6e09\"}"
@@ -64,7 +62,8 @@
 			"shouldFilterDisplays": true,
 			"filteringRules": [
 				"{id:\"roughlyenoughitems:manual\",rule:{}}",
-				"{id:\"roughlyenoughitems:basic\",rule:{}}"
+				"{id:\"roughlyenoughitems:basic\",rule:{}}",
+				"{id:\"roughlyenoughitems:hidden_from_recipe_viewers\",rule:{}}"
 			],
 			"filteringQuickCraftCategories": { },
 			"filteredStacks": []

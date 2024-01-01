@@ -4,7 +4,6 @@ REIEvents.hide('item', event => {
 })
 */
 
-/*
   REIEvents.hide('item', event => { 
     event.hide([
         'minecraft:wooden_sword',
@@ -19,5 +18,3 @@ REIEvents.hide('item', event => {
         'minecraft:stone_hoe'
     ])
 })
-
-*/

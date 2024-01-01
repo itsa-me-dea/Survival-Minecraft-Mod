@@ -26,7 +26,24 @@ ServerEvents.recipes(event => {
     // Note: tagged fluid ingredients do not work on Fabric, but tagged items do.
   );
 
-// Stone tools to gold variant
-
+// Stone tools to gold variants
+event.replaceInput(
+    { input: 'minecraft:stone_hoe' }, // Arg 1: the filter
+    'minecraft:stone_hoe',            // Arg 2: the item to replace
+    'notreepunching:gold_hoe'         // Arg 3: the item to replace it with
+    // Note: tagged fluid ingredients do not work on Fabric, but tagged items do.
+  );
+  event.replaceInput(
+    { input: 'minecraft:stone_axe' }, // Arg 1: the filter
+    'minecraft:stone_axe',            // Arg 2: the item to replace
+    'notreepunching:gold_axe'         // Arg 3: the item to replace it with
+    // Note: tagged fluid ingredients do not work on Fabric, but tagged items do.
+  );
+  event.replaceInput(
+    { input: 'minecraft:stone_pickaxe' }, // Arg 1: the filter
+    'minecraft:stone_pickaxe',            // Arg 2: the item to replace
+    'notreepunching:gold_pickaxe'         // Arg 3: the item to replace it with
+    // Note: tagged fluid ingredients do not work on Fabric, but tagged items do.
+  )
     console.log('Hello! The recipe event has fired!')
   })

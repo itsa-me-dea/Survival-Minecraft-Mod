@@ -120,6 +120,9 @@ key_key.toastcontrol.clear:key.keyboard.j
 key_key.endlessocean.increase_speed:key.keyboard.keypad.add
 key_key.endlessocean.decrease_speed:key.keyboard.keypad.subtract
 key_key.endlessocean.power_key:key.keyboard.keypad.multiply
+key_x13.mod.fullbright:key.keyboard.h
+key_x13.mod.config:key.keyboard.n
+key_x13.mod.locationEnable:key.keyboard.j
 key_key.jade.config:key.keyboard.keypad.0
 key_key.jade.show_overlay:key.keyboard.keypad.1
 key_key.jade.toggle_liquid:key.keyboard.keypad.2
