@@ -38,6 +38,9 @@
   "jade:mod_name": null,
   "jade:distance": null,
   "jade:block_face": null,
+  "shetiphiancore:hud": null,
+  "multibeds:hud": null,
+  "shetiphiancore:hud": null,
   "minecraft:brewing_stand": null,
   "minecraft:beehive": null,
   "minecraft:command_block": null,
@@ -76,5 +79,6 @@
   "jade:registry_name": null,
   "jade:mod_name": null,
   "jade:distance": null,
-  "jade:block_face": null
+  "jade:block_face": null,
+  "multibeds:hud": null
 }

@@ -46,6 +46,11 @@
     "mob_spawner": true,
     "redstone": true
   },
+  "shetiphiancore": {
+    "hud.rgb16": true,
+    "hud": true,
+    "hud.redstone": true
+  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,
@@ -53,5 +58,8 @@
     "coordinates": false,
     "registry_name": "OFF",
     "mod_name": true
+  },
+  "multibeds": {
+    "hud": true
   }
 }
