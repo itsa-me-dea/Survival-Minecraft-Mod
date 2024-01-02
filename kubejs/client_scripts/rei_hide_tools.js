@@ -6,6 +6,7 @@ REIEvents.hide('item', event => {
 
   REIEvents.hide('item', event => { 
     event.hide([
+        // no tree punching
         'minecraft:wooden_sword',
         'minecraft:wooden_shovel',
         'minecraft:wooden_pickaxe',
@@ -15,6 +16,11 @@ REIEvents.hide('item', event => {
         'minecraft:stone_shovel',
         'minecraft:stone_pickaxe',
         'minecraft:stone_axe',
-        'minecraft:stone_hoe'
+        'minecraft:stone_hoe',
+        // festive delights
+        'festive_delight:spread_ginger_bread_dough',
+        'festive_delight:spread_gingerbread_1',
+        'festive_delight:spread_gingerbread_2',
+        'festive_delight:spread_gingerbread'
     ])
 })
