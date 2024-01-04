@@ -1,0 +1,11 @@
+{
+    "name": "Find Some Flint",
+    "icon": "minecraft:flint",
+    "category": "patchouli:first_steps",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Any tools that you might need to make will require flint, especially since you can't punch trees now."
+        }
+    ]
+}

@@ -4,7 +4,7 @@
 #-------------------------------------------
 #Default: true
 #-------------------------------------------
-"Boolean: Enable" = false
+"Boolean: Enable" = true
 #
 ############################################
 #Disabling this will prevent players from sleeping if they have hyperthermia or hypothermia

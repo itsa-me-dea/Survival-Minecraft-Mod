@@ -6,7 +6,7 @@
 			"{DisplayHistoryCategory:\"jeresources:worldgen\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"5f086129-1f66-4e79-a116-20a3537e6e09\"}"
 		],
 		// Declares whether cheating mode is on.
-		"cheating": false,
+		"cheating": true,
 		"favoritesEnabled": true,
 		"keyBindings": {
 			"recipeKeybind": {

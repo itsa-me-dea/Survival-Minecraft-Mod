@@ -1,0 +1,20 @@
+{
+    "name": "Time to Get Roasty Toasty",
+    "icon": "minecraft:campfire",
+    "category": "patchouli:first_steps",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "You'll probably want to make a campfire to avoid hypothermia. The best early game way to avoid that is to make a campfire. First, make a fire starter."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "notreepunching:fire_starter",
+            "title": "Fire Starter"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Now drop one log or plank and three pieces of sticks, saplings, leaves or strings. Now take your fire starter and hold right click on that flammable pile and now you're cooking!"
+        }
+    ]
+}

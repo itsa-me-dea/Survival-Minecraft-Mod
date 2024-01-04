@@ -21,6 +21,15 @@ REIEvents.hide('item', event => {
         'festive_delight:spread_ginger_bread_dough',
         'festive_delight:spread_gingerbread_1',
         'festive_delight:spread_gingerbread_2',
-        'festive_delight:spread_gingerbread'
+        'festive_delight:spread_gingerbread',
+        // nomadic tents
+        'nomadictents:door_frame',
+        'nomadictents:yurt_wall_frame',
+        'nomadictents:yurt_roof_frame',
+        'nomadictents:tepee_wall_frame',
+        'nomadictents:bedouin_wall_frame',
+        'nomadictents:bedouin_roof_frame',
+        'nomadictents:indlu_wall_frame',
+        'nomadictents:shamiyana_wall_frame'
     ])
 })

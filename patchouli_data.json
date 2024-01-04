@@ -1,5 +1,15 @@
 {
   "bookGuiScale": 0,
   "clickedVisualize": false,
-  "bookData": {}
+  "bookData": {
+    "patchouli:survival101": {
+      "viewedEntries": [
+        "patchouli:test/test_entry",
+        "patchouli:first_steps/find_some_flint",
+        "patchouli:first_steps/roasty_toasty"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
 }

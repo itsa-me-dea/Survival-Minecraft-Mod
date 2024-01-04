@@ -118,9 +118,6 @@ key_key.shetiphiancore.tool.previous:key.keyboard.page.down
 key_key.endlessocean.increase_speed:key.keyboard.keypad.add
 key_key.endlessocean.decrease_speed:key.keyboard.keypad.subtract
 key_key.endlessocean.power_key:key.keyboard.keypad.multiply
-key_x13.mod.fullbright:key.keyboard.h
-key_x13.mod.config:key.keyboard.n
-key_x13.mod.locationEnable:key.keyboard.j
 key_key.curios.open.desc:key.keyboard.g
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
