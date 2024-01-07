@@ -36,8 +36,7 @@ ServerEvents.recipes(event => {
 
     // festive recipes
     new_recipe('2x festive_delight:sus_bread', 'festive_delight:gingerbread_man', 'festive_delight:gingerbread_man_creeper', 'festive_delight:gingerbread_cookie_flake','festive_delight:gingerbread_cookie_sword');
-<<<<<<< Updated upstream
-})
+});
 
 ServerEvents.recipes(event => {
     let new_recipe = (output, input1) => {
@@ -50,7 +49,7 @@ ServerEvents.recipes(event => {
 
     // festive recipes
     new_recipe('1x kubejs:bed_of_leaves', '#minecraft:leaves');
-=======
+
 
     //fabric cinnamon recipe fix
     event.custom({
@@ -89,5 +88,4 @@ ServerEvents.recipes(event => {
           item: 'minecraft:air'
         }
     });
->>>>>>> Stashed changes
 })
