@@ -37,8 +37,8 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","builtin/towntalk"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","mod_resources","builtin/towntalk","Immersive Weathering Generated Pack","file/Bed_of_Leaves"]
+incompatibleResourcePacks:["file/Bed_of_Leaves"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -128,6 +128,7 @@ key_key.smallships.ship_sail:key.keyboard.r
 key_key.travelersbackpack.inventory:key.keyboard.b
 key_key.travelersbackpack.toggle_tank:key.keyboard.n
 key_key.travelersbackpack.cycle_tool:key.keyboard.z
+key_key.configured.open_mod_list:key.keyboard.unknown
 key_key.toastcontrol.clear:key.keyboard.j
 key_key.jade.config:key.keyboard.keypad.0
 key_key.jade.show_overlay:key.keyboard.keypad.1

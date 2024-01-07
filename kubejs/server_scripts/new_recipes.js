@@ -37,3 +37,16 @@ ServerEvents.recipes(event => {
     // festive recipes
     new_recipe('2x festive_delight:sus_bread', 'festive_delight:gingerbread_man', 'festive_delight:gingerbread_man_creeper', 'festive_delight:gingerbread_cookie_flake','festive_delight:gingerbread_cookie_sword');
 })
+
+ServerEvents.recipes(event => {
+    let new_recipe = (output, input1) => {
+        event.shaped(output, [
+        'XXX'
+        ], {
+        X: input1
+        })
+    }
+
+    // festive recipes
+    new_recipe('1x kubejs:bed_of_leaves', '#minecraft:leaves');
+})
