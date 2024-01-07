@@ -10,6 +10,13 @@
       ],
       "bookmarks": [],
       "completedManualQuests": []
+    },
+    "survive:survival_guide": {
+      "viewedEntries": [
+        "survive:food/overeating"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
     }
   }
 }

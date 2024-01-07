@@ -4,7 +4,7 @@
 #-------------------------------------------
 #Default: true
 #-------------------------------------------
-"Boolean: Enable" = true
+"Boolean: Enable" = false
 #
 ############################################
 #Disabling this will prevent players from sleeping if they have hyperthermia or hypothermia
@@ -38,7 +38,7 @@
 #Default: 0.001
 #-------------------------------------------
 #Range: 1.0E-4 ~ 1.0
-"Double: Temperature Update Speed" = 0.001
+"Double: Temperature Update Speed" = 0.01
 #
 ############################################
 #This is intended for users who want to use the older temperature system

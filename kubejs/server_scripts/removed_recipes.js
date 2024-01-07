@@ -14,8 +14,11 @@ ServerEvents.recipes(event => {
         ]);
     };
 
+    //torches
     remove('byg:anthracite', 'minecraft:torch');
     remove('betteranimalsplus:blubber', 'minecraft:torch');
+    //festive delights
+    remove('festive_delight:cinnamon_sticks', 'festive_delight:cinnamon_powder')
   
     console.log("This has been removed")
   })
