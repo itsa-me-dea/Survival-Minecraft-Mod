@@ -2,7 +2,7 @@
 StartupEvents.registry('block', event => {
     // The texture for this item has to be placed in kubejs/assets/kubejs/textures/item/test_item.png
     // If you want a custom item model, you can create one in Blockbench and put it in kubejs/assets/kubejs/models/item/test_item.json
-    event.create('test_block_full', cardinal)
+    event.create('test_block_full', 'cardinal')
         .displayName("Test Block Full") // Set a custom name
         .material("wood") // Set a material (affects the sounds and some properties)
         .hardness(1.0) // Set hardness (affects mining time)

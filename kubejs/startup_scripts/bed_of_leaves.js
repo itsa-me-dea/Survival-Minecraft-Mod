@@ -17,5 +17,4 @@ StartupEvents.registry('block', event => {
         .tagBlock("mineable/shears") // can be mined faster with an axe
         .fullBlock(false)
         .box(0, 0, 0, 16, 3, 32, true)
-
   })
