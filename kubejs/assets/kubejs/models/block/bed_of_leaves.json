@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "block/azalea_leaves",
-		"2": "block/coarse_dirt",
-		"5": "block/flowering_azalea_leaves",
-		"particle": "block/oak_leaves"
+		"1": "kubejs:block/azalea_leaves",
+		"2": "kubejs:block/coarse_dirt",
+		"5": "kubejs:block/flowering_azalea_leaves",
+		"particle": "kubejs:block/oak_leaves"
 	},
 	"elements": [
 		{

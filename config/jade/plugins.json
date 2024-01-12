@@ -51,9 +51,6 @@
     "hud": true,
     "hud.redstone": true
   },
-  "delightful": {
-    "crop_progress": true
-  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,
@@ -61,6 +58,9 @@
     "coordinates": false,
     "registry_name": "OFF",
     "mod_name": true
+  },
+  "corpse": {
+    "corpse": true
   },
   "multibeds": {
     "hud": true
